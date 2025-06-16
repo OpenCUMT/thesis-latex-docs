@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "thesis-latex wiki",
-  description: "A helpful wiki for CUMT thesis-latex",
+  description: "一个CUMT Latex论文模板的帮助文档",
   base: '/thesis-latex-docs/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -32,7 +32,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/coolwindX/thesis-latex-docs' }
+      { icon: 'github', link: 'https://github.com/OpenCUMT/thesis-latex-docs' }
     ]
   }
 })

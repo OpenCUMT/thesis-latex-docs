@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "thesis-latex wiki",
   description: "一个CUMT Latex论文模板的帮助文档",
-  base: '/thesis-latex-docs/',
+  base: '/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

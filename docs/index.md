@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: "thesis-latex wiki"
+  name: "thesis-latex docs"
   text: "一个CUMT Latex论文模板的帮助文档"
   tagline: 
   actions:

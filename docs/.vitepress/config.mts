@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "thesis-latex wiki",
+  title: "thesis-latex docs",
   description: "一个CUMT Latex论文模板的帮助文档",
   base: '/',
   themeConfig: {

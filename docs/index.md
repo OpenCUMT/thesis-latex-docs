@@ -21,4 +21,3 @@ features:
   - title: 灵活
     details: 只需要一点Latex知识，即可快速上手
 ---
-

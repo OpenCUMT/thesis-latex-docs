@@ -14,7 +14,7 @@
 
 ###### Windows 用户
 
-推荐使用 [TeX Live]([TeX Live - TeX 用户组](https://tug.org/texlive/)) ，首先访问[清华大学开源软件镜像站 | Tsinghua Open Source Mirror](https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/)，选择并下载名为“texlive.iso”的镜像文件，随后在合适的路径下安装。
+推荐使用 [TeX Live](https://tug.org/texlive/) ，首先访问[清华大学开源软件镜像站 | Tsinghua Open Source Mirror](https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/)，选择并下载名为“texlive.iso”的镜像文件，随后在合适的路径下安装。
 
 ###### macOS用户
 
@@ -22,7 +22,7 @@
 
 #### 模板下载
 
-访问 [本项目的GitHub发布页]([Releases · OpenCUMT/thesis-latex](https://github.com/OpenCUMT/thesis-latex/releases)) 可以下载最新的论文模板，访问其中的“thesis.tex”即可对模板进行修改，其中包含足够多的注释，可以帮助你更快地上手。
+访问 [本项目的GitHub发布页](https://github.com/OpenCUMT/thesis-latex/releases) 可以下载最新的论文模板，访问其中的“thesis.tex”即可对模板进行修改，其中包含足够多的注释，可以帮助你更快地上手。
 
 #### 使用VS Code + LaTeX Workshop
 
@@ -30,9 +30,9 @@
 
 #### 常用命令
 
-- **编译论文** `thesis.pdf`：
-  
-  ```bash
+**编译论文** `thesis.pdf`：
+
+- ```bash
   latexmk -xelatex thesis.tex
   ```
 

@@ -15,9 +15,9 @@ hero:
 
 features:
   - title: 排版
-    details: Latex自动排版，省去Word繁琐的排版步骤
+    details: Latex自动排版，快速且标准化
   - title: 格式
-    details: 格式符合CUMT毕业论文格式要求
+    details: 格式符合最新CUMT毕业论文格式要求
   - title: 灵活
     details: 只需要一点Latex知识，即可快速上手
 ---
